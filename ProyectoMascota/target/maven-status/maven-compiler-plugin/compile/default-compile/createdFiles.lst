@@ -1,0 +1,8 @@
+Main.class
+dao\MascotaDAO.class
+model\Mascota.class
+persistencia\ArchivoUtil.class
+persistencia\ArchivoManager.class
+vista\FormMascota.class
+controlador\MascotaControlador.class
+dto\MascotaDTO.class
