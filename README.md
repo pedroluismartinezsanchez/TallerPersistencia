@@ -82,7 +82,7 @@ El archivo `data/mascotas.txt` guarda las mascotas en format
 ## ✍ Autor
 
 **Pedro Luis Martínez**  
-📧 pedro.luis@example.com
+📧 pedroluismartinezs@hotmail.es
 
 ---
 
